@@ -1,10 +1,10 @@
-# Student Learning Hub
+# Student Learning Hub - Apk Latihan Belajar Sederhana dengan Teknologi JAVA
 
 **Student Learning Hub** is a simple Java-based application designed to assist students in their learning exercises and exam management. This application provides access for both lecturers and students to interact through quizzes and online grade management features.
 
 ## Overview
 
-*Student Learning Hub* is an innovative application aimed at enhancing the learning experience for students at IT Del. The application facilitates improved interaction between lecturers and students through various user-friendly features.
+*Student Learning Hub* is an innovative application aimed at enhancing the learning experience for students. The application facilitates improved interaction between lecturers and students through various user-friendly features.
 
 ## Key Features
 
@@ -41,7 +41,7 @@ The application aims to assist students in honing their academic skills while pr
 
 ## Introduction
 
-This document outlines the system requirements for developers and describes how the application works and its usage rules. The application is built for IT Del students with the goal of providing access to information and evaluation tools.
+This document outlines the system requirements for developers and describes how the application works and its usage rules. The application is built for students with the goal of providing access to information and evaluation tools.
 
 ## Objectives
 
