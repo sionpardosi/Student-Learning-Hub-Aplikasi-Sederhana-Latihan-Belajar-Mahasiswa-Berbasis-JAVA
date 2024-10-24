@@ -1,0 +1,9 @@
+pilgan,it del adalah sebuah kampus,iya,tidak,tidak,tidak,tidak,A
+pilgan,The keyword used to create a fixed and immutable value is...,protected,final,private,default,public,B
+pilgan,Below are the class names in Java that are allowed, except...,C9_it,K97H,H12_3,9_kU8,H2SO4,D
+pilgan,The following are the principles of OOP, except..,A, B, C, D Correct,Encapsulation,Polymorphism,Inheritance,Abstraction,A
+pilgan,Sion adalah orang Ganteng,Iya,Tidak,Engga,Ga,G,A
+pilgan,IT DEL Adalah Tempat Dunia Shinobi,Tidak,YA,Mungkin,Ragu ragu,Maybe,A
+truefalse,Abstract class is a class that can be instantiated because it is too general.,True,False,B
+truefalse,This type of polymorphism that allows two or more different signatures is characteristic of overloading.,True,False,A
+pilgan,sion ganteng,ganteng bgt,tidak,tidak,g,g,A

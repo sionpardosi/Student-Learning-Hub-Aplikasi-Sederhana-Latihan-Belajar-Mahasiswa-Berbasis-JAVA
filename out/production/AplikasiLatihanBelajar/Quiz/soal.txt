@@ -1,0 +1,10 @@
+pilgan,Planet terdekat dengan matahari adalah ,Merkurius,Venus,Yupiter,Saturnus,Neptunus,A
+pilgan,Negara manakah yang mempunyai garis pantai terpanjang di dunia?, Republik Rakyat China, Amerika Serikat, Federasi Rusia, Indonesia, Kanada,E
+pilgan,Singkatan dari apakah LVRI yang merupakan organisasi para veteran di Indonesia?,Laskar Veteran Republik Indonesia,Legiun Veteran Republik Indonesia,Lembaga Veteran Republik Indonesia,Loka Veteran Republik Indonesia,Laksamana Veteran Republik Indonesia,B
+pilgan,Hari Sumpah Pemuda diperingati setiap tanggal,28 November,28 September,28 Agustus,28 Oktober,28 Januari,D
+pilgan,Bunga Rafflesia Arnoldii diberi nama sesuai dengan gabungan nama pimpinan ekspedisi saat itu, yang bernama....,Thomas Alfa Edison dan Dwein Rafflesia,Dwein Rafflesia dan Joseph Arnold,Thomas Alfa Edison dan Arnold Raffles,Thomas Stamford Raffles dan Joseph Arnold,B
+truefalse,Titanic tenggelam di Samudra Atlantik pada 15 April 1912 dalam pelayaran perdananya dari Southampton,True,False,A
+truefalse,Mg adalah simbol kimia untuk perak,True,False,B
+truefalse,umur dari capung adalah 48 jam,True,False,B
+truefalse,Universitas Mataram terletak di Provinsi Nusa Tenggara Barat,True,False,A
+truefalse,makna kata Kalpataru dalam bahasa Sanskerta adalah Pohon Kehidupan,True,False,A

@@ -1,0 +1,5 @@
+Aplikasi Belajar Sederhana Mahasiswa IT Del adalah sebuah platform inovatif yang dirancang 
+khusus untuk membantu mahasiswa Institut Teknologi Del dalam meningkatkan pemahaman dan keterampilan praktis mereka. 
+Mahasiswa dapat mengakses latihan dan ujian untuk menguji pemahaman mereka,
+dengan umpan balik instan untuk membantu mereka meningkatkan kinerja. 
+Profil pengguna memungkinkan mahasiswa melacak kemajuan mereka, termasuk riwayat latihan, proyek, dan nilai.
