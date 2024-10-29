@@ -1,4 +1,4 @@
-# Student Learning Hub - Apk Latihan Belajar Sederhana dengan Tekn. JAVA
+# Student Learning Hub - App Latihan Belajar Sederhana dengan Tekn. JAVA
 
 **Student Learning Hub** is a simple Java-based application designed to assist students in their learning exercises and exam management. This application provides access for both lecturers and students to interact through quizzes and online grade management features.
 
