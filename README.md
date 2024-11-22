@@ -1,5 +1,13 @@
 # Student Learning Hub - App Latihan Belajar Sederhana dengan Tekn. JAVA
 
+### <summary><strong>Tools:</strong></summary>
+<p>
+    <img src="https://img.shields.io/badge/Code-Java-blue?&logo=java" />
+    <img src="https://img.shields.io/badge/Database-MySQL-orange?&logo=mysql" />
+    <img src="https://img.shields.io/badge/Editor-Eclipse-2C2255?&logo=eclipseide" />
+    <img src="https://img.shields.io/badge/Editor-IntelliJ%20IDEA-brightgreen?&logo=intellijidea" />
+</p>
+
 **Student Learning Hub** is a simple Java-based application designed to assist students in their learning exercises and exam management. This application provides access for both lecturers and students to interact through quizzes and online grade management features.
 
 ## Overview
