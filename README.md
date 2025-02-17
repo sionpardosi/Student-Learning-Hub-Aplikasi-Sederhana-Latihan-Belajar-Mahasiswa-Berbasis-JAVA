@@ -81,3 +81,9 @@ This application encompasses features for both lecturers and students, where lec
 1. Clone this repository:
    ```bash
    git clone https://github.com/username/Student-Learning-Hub.git
+
+---
+
+# Contribution & Feedback:
+
+We are very open to contributions and feedback from the community. For more information or any questions, feel free to contact us via [spardosi12@gmail.com](mailto:spardosi12@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sion-pardosi-961607254/).
